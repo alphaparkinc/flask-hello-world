@@ -1,0 +1,10 @@
+{
+  "name": "flask-hello-world",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Microservice Gateway - Zero-dependency URL prefix radix tree routing, HMAC-SHA256 JWT claims authentication, and P99 latency SLA percentile auditing.",
+  "tools": [
+    "route_http_endpoint_dispatch",
+    "verify_hmac_sha256_jwt",
+    "measure_request_latency_p99"
+  ]
+}
